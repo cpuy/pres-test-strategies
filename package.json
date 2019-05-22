@@ -22,7 +22,7 @@
   "scripts": {
     "start": "fusuma start",
     "build": "fusuma build",
-    "deploy:gh-pages": "fusuma deploy",
+    "deploy:gh-pages": "npm run build && fusuma deploy",
     "export:pdf": "fusuma pdf"
   }
 }
