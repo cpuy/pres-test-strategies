@@ -1,0 +1,7 @@
+.Title {
+    background: url('./images/tests.gif');
+    background-size: cover;
+
+    color: yellow;
+    font-weight: bold;
+}
