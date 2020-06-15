@@ -1,7 +1,25 @@
+h2 {
+    color: #3498db;
+    margin-bottom: 2rem;
+}
+
 .Title {
     background: url('./images/tests.gif');
     background-size: cover;
 
     color: yellow;
     font-weight: bold;
+}
+
+.TestPyramid {
+    text-align: left;
+}
+
+
+.TestPyramid ul {
+    margin-left: 3rem;
+}
+
+.TestPyramid ul li {
+    list-style: inherit;
 }

@@ -1,3 +1,4 @@
+<!-- sectionTitle: Tests values -->
 ## Hopefully tests can help us to write code with no bugs
 
 * Tests help us catch mistakes
